@@ -1,0 +1,107 @@
+[
+ {
+  "id": "CAT-1042",
+  "location_id": "soho",
+  "pickup_at": "2026-10-03T17:30:00Z",
+  "customer": "Rivera Office Group",
+  "status": "completed",
+  "total": 204.85,
+  "lines": [
+   {
+    "name": "Sol Chicken Bowl",
+    "quantity": 8,
+    "catalog_object_id": "DEMO-SOL-CHX"
+   },
+   {
+    "name": "Veggie Sol Bowl",
+    "quantity": 4,
+    "catalog_object_id": "DEMO-VEGGIE"
+   },
+   {
+    "name": "Chips & Guacamole",
+    "quantity": 3,
+    "catalog_object_id": "DEMO-CHIPSGUAC"
+   },
+   {
+    "name": "Agua Fresca (Hibiscus)",
+    "quantity": 12,
+    "catalog_object_id": "DEMO-AGUA"
+   }
+  ],
+  "prep_servings": {
+   "cilantro_lime_rice": 12,
+   "smoky_black_beans": 12,
+   "grilled_chicken": 8,
+   "roasted_sweet_potato": 4,
+   "charred_corn_salsa": 12,
+   "pico_de_gallo": 12,
+   "avocado_crema": 8,
+   "guacamole": 10,
+   "cotija": 12,
+   "tortilla_strips": 12,
+   "chips": 3,
+   "agua_fresca_base": 12
+  },
+  "packaging": {
+   "bowls": 12,
+   "lids": 12,
+   "cups": 12,
+   "bags": 3
+  }
+ },
+ {
+  "id": "CAT-1057",
+  "location_id": "harbor",
+  "pickup_at": "2026-10-10T11:30:00Z",
+  "customer": "Bluebird Elementary PTA",
+  "status": "confirmed",
+  "total": 373.1,
+  "lines": [
+   {
+    "name": "Asada Bowl",
+    "quantity": 10,
+    "catalog_object_id": "DEMO-ASADA",
+    "modifiers": [
+     "no cotija (x2)"
+    ]
+   },
+   {
+    "name": "Baja Shrimp Bowl",
+    "quantity": 6,
+    "catalog_object_id": "DEMO-BAJA"
+   },
+   {
+    "name": "Pollo Verde Burrito",
+    "quantity": 8,
+    "catalog_object_id": "DEMO-BURRITO"
+   },
+   {
+    "name": "Churro Bites",
+    "quantity": 10,
+    "catalog_object_id": "DEMO-CHURRO"
+   }
+  ],
+  "prep_servings": {
+   "cilantro_lime_rice": 24,
+   "smoky_black_beans": 24,
+   "carne_asada": 10,
+   "baja_shrimp": 6,
+   "grilled_chicken": 8,
+   "flour_tortilla": 8,
+   "charred_corn_salsa": 16,
+   "pico_de_gallo": 24,
+   "guacamole": 10,
+   "avocado_crema": 14,
+   "cotija": 22,
+   "tortilla_strips": 16,
+   "churro_bites": 10
+  },
+  "packaging": {
+   "bowls": 16,
+   "lids": 16,
+   "foil_wraps": 8,
+   "dessert_cups": 10,
+   "bags": 4
+  }
+ }
+]

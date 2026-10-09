@@ -1,0 +1,78 @@
+{
+  "meta": { "generated": "2026-10-01", "source": "fabricated test fixture" },
+  "menuItems": [
+    {
+      "id": "ENG1",
+      "name": "Test Bowl",
+      "category": "curated",
+      "price": 10.0,
+      "cost": 3.5,
+      "foodCostPct": 0.35,
+      "margin": 6.5,
+      "allergens": "Milk",
+      "dietary": null,
+      "status": null,
+      "nutCal": 800.0,
+      "nutPro": 40.0,
+      "nutFat": 25.0,
+      "nutCarb": 90.0,
+      "nutNote": null,
+      "lines": [
+        {
+          "component": "rice",
+          "name": "Rice",
+          "type": "recipe",
+          "qty": 1.0,
+          "cost": 0.3,
+          "portion": "8 oz",
+          "nutCal": 320.0,
+          "nutPro": 6.0,
+          "nutFat": 4.0,
+          "nutCarb": 64.0,
+          "nutStatus": "ok"
+        }
+      ]
+    }
+  ],
+  "ingredients": [
+    {
+      "id": "test_chicken",
+      "brand": "BrandCo",
+      "pack": "4 10 LB",
+      "caseCost": 100.0,
+      "unit": "lb",
+      "costPerUnit": 2.5,
+      "gramsPerUnit": 453.6,
+      "allergens": null,
+      "tier": "T1_cost",
+      "status": null,
+      "priceDate": "2026-09-01",
+      "notes": "fixture only",
+      "bek": "123456",
+      "usedIn": ["grilled_chicken"]
+    }
+  ],
+  "priceWatch": [
+    {
+      "date": "2026-09-10",
+      "bek": "123456",
+      "item": "Chicken Test",
+      "old": "$100.00",
+      "new": "$108.00",
+      "movePct": "+8.0%",
+      "affected": "—",
+      "note": "fixture move"
+    },
+    {
+      "date": "2026-09-20",
+      "bek": "123456",
+      "item": "Chicken Test",
+      "old": "$108.00",
+      "new": "$102.00",
+      "movePct": "-5.6%",
+      "affected": "—",
+      "note": null
+    }
+  ],
+  "tracker": []
+}

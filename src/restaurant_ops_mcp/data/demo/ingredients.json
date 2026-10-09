@@ -1,0 +1,277 @@
+[
+ {
+  "id": "chicken_thigh_marinated",
+  "name": "Chicken Thigh Bnls Marinated",
+  "brand": "Summit Reserve",
+  "pack": "4 10 LB",
+  "case_cost": 92.4,
+  "unit": "lb",
+  "cost_per_unit": 2.31,
+  "price_date": "2026-10-05",
+  "vendor_sku": "410233",
+  "category": "protein",
+  "used_in": [
+   "grilled_chicken"
+  ]
+ },
+ {
+  "id": "skirt_steak",
+  "name": "Beef Skirt Steak Outer",
+  "brand": "Summit Reserve",
+  "pack": "2 11 LB avg",
+  "case_cost": 148.5,
+  "unit": "lb",
+  "cost_per_unit": 6.75,
+  "price_date": "2026-10-05",
+  "vendor_sku": "410871",
+  "category": "protein",
+  "used_in": [
+   "carne_asada"
+  ]
+ },
+ {
+  "id": "shrimp_31_40",
+  "name": "Shrimp White 31/40 P&D",
+  "brand": "Gulf Coast",
+  "pack": "5 2 LB",
+  "case_cost": 58.5,
+  "unit": "lb",
+  "cost_per_unit": 5.85,
+  "price_date": "2026-10-05",
+  "vendor_sku": "411209",
+  "category": "protein",
+  "used_in": [
+   "baja_shrimp"
+  ]
+ },
+ {
+  "id": "long_grain_rice",
+  "name": "Rice Long Grain",
+  "brand": "Summit",
+  "pack": "1 50 LB",
+  "case_cost": 34.0,
+  "unit": "lb",
+  "cost_per_unit": 0.68,
+  "price_date": "2026-10-05",
+  "vendor_sku": "300112",
+  "category": "dry goods",
+  "used_in": [
+   "cilantro_lime_rice"
+  ]
+ },
+ {
+  "id": "black_beans_dry",
+  "name": "Beans Black Turtle Dry",
+  "brand": "Summit",
+  "pack": "1 20 LB",
+  "case_cost": 26.0,
+  "unit": "lb",
+  "cost_per_unit": 1.3,
+  "price_date": "2026-10-05",
+  "vendor_sku": "300447",
+  "category": "dry goods",
+  "used_in": [
+   "smoky_black_beans"
+  ]
+ },
+ {
+  "id": "sweet_potato",
+  "name": "Sweet Potato Jumbo",
+  "brand": "Field Run",
+  "pack": "1 40 LB",
+  "case_cost": 38.0,
+  "unit": "lb",
+  "cost_per_unit": 0.95,
+  "price_date": "2026-10-05",
+  "vendor_sku": "200330",
+  "category": "produce",
+  "used_in": [
+   "roasted_sweet_potato"
+  ]
+ },
+ {
+  "id": "corn_iqf",
+  "name": "Corn Roasted IQF",
+  "brand": "Summit",
+  "pack": "12 2.5 LB",
+  "case_cost": 42.0,
+  "unit": "lb",
+  "cost_per_unit": 1.4,
+  "price_date": "2026-10-05",
+  "vendor_sku": "200518",
+  "category": "frozen",
+  "used_in": [
+   "charred_corn_salsa"
+  ]
+ },
+ {
+  "id": "roma_tomato",
+  "name": "Tomato Roma",
+  "brand": "Field Run",
+  "pack": "1 25 LB",
+  "case_cost": 31.25,
+  "unit": "lb",
+  "cost_per_unit": 1.25,
+  "price_date": "2026-10-05",
+  "vendor_sku": "200104",
+  "category": "produce",
+  "used_in": [
+   "pico_de_gallo"
+  ]
+ },
+ {
+  "id": "red_onion",
+  "name": "Onion Red Jumbo",
+  "brand": "Field Run",
+  "pack": "1 25 LB",
+  "case_cost": 22.5,
+  "unit": "lb",
+  "cost_per_unit": 0.9,
+  "price_date": "2026-10-05",
+  "vendor_sku": "200109",
+  "category": "produce",
+  "used_in": [
+   "pico_de_gallo",
+   "charred_corn_salsa"
+  ]
+ },
+ {
+  "id": "cilantro",
+  "name": "Cilantro Bunched",
+  "brand": "Field Run",
+  "pack": "30 CT",
+  "case_cost": 24.0,
+  "unit": "bunch",
+  "cost_per_unit": 0.8,
+  "price_date": "2026-10-05",
+  "vendor_sku": "200771",
+  "category": "produce",
+  "used_in": [
+   "cilantro_lime_rice",
+   "pico_de_gallo"
+  ]
+ },
+ {
+  "id": "lime",
+  "name": "Lime 200 CT",
+  "brand": "Field Run",
+  "pack": "1 200 CT",
+  "case_cost": 34.0,
+  "unit": "each",
+  "cost_per_unit": 0.17,
+  "price_date": "2026-10-05",
+  "vendor_sku": "200654",
+  "category": "produce",
+  "used_in": [
+   "cilantro_lime_rice",
+   "avocado_crema"
+  ]
+ },
+ {
+  "id": "avocado",
+  "name": "Avocado Hass 48 CT",
+  "brand": "Field Run",
+  "pack": "1 48 CT",
+  "case_cost": 66.5,
+  "unit": "each",
+  "cost_per_unit": 1.39,
+  "price_date": "2026-10-05",
+  "vendor_sku": "200600",
+  "category": "produce",
+  "used_in": [
+   "avocado_crema",
+   "guacamole"
+  ]
+ },
+ {
+  "id": "cotija",
+  "name": "Cheese Cotija Crumbled",
+  "brand": "Casa Blanca",
+  "pack": "2 5 LB",
+  "case_cost": 54.0,
+  "unit": "lb",
+  "cost_per_unit": 5.4,
+  "price_date": "2026-10-05",
+  "vendor_sku": "500221",
+  "category": "dairy",
+  "used_in": [
+   "cotija"
+  ]
+ },
+ {
+  "id": "sour_cream",
+  "name": "Sour Cream Cultured",
+  "brand": "Casa Blanca",
+  "pack": "4 5 LB",
+  "case_cost": 36.0,
+  "unit": "lb",
+  "cost_per_unit": 1.8,
+  "price_date": "2026-10-05",
+  "vendor_sku": "500318",
+  "category": "dairy",
+  "used_in": [
+   "avocado_crema"
+  ]
+ },
+ {
+  "id": "flour_tortilla_12in",
+  "name": "Tortilla Flour 12 IN",
+  "brand": "Molino",
+  "pack": "12 12 CT",
+  "case_cost": 28.8,
+  "unit": "each",
+  "cost_per_unit": 0.2,
+  "price_date": "2026-10-05",
+  "vendor_sku": "310442",
+  "category": "bread",
+  "used_in": [
+   "flour_tortilla"
+  ]
+ },
+ {
+  "id": "corn_tortilla_chips",
+  "name": "Chips Corn Tortilla",
+  "brand": "Molino",
+  "pack": "6 2 LB",
+  "case_cost": 21.0,
+  "unit": "lb",
+  "cost_per_unit": 1.75,
+  "price_date": "2026-10-05",
+  "vendor_sku": "310515",
+  "category": "dry goods",
+  "used_in": [
+   "chips",
+   "tortilla_strips"
+  ]
+ },
+ {
+  "id": "canola_oil",
+  "name": "Oil Canola Clear Fry",
+  "brand": "Summit",
+  "pack": "1 35 LB",
+  "case_cost": 43.75,
+  "unit": "lb",
+  "cost_per_unit": 1.25,
+  "price_date": "2026-10-05",
+  "vendor_sku": "600104",
+  "category": "dry goods",
+  "used_in": [
+   "churro_bites"
+  ]
+ },
+ {
+  "id": "cinnamon_sugar",
+  "name": "Sugar Cinnamon Blend",
+  "brand": "Summit",
+  "pack": "1 25 LB",
+  "case_cost": 30.0,
+  "unit": "lb",
+  "cost_per_unit": 1.2,
+  "price_date": "2026-10-05",
+  "vendor_sku": "600233",
+  "category": "dry goods",
+  "used_in": [
+   "churro_bites"
+  ]
+ }
+]

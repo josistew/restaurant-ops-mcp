@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "restaurant-ops": {
+      "command": "uv",
+      "args": ["run", "restaurant-ops-mcp"]
+    }
+  }
+}

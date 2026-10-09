@@ -1,0 +1,818 @@
+[
+ {
+  "id": "DEMO-SOL-CHX",
+  "name": "Sol Chicken Bowl",
+  "category": "curated",
+  "price": 12.75,
+  "allergens": "Milk",
+  "dietary": null,
+  "nutrition": {
+   "calories": 1035,
+   "protein_g": 57,
+   "fat_g": 35,
+   "carbs_g": 126,
+   "status": "ok"
+  },
+  "lines": [
+   {
+    "component_id": "cilantro_lime_rice",
+    "name": "Cilantro-Lime Rice",
+    "qty": 1,
+    "cost": 0.31,
+    "portion": "8 oz cooked",
+    "nutrition": {
+     "calories": 320,
+     "protein_g": 6,
+     "fat_g": 4,
+     "carbs_g": 64,
+     "status": "ok"
+    }
+   },
+   {
+    "component_id": "smoky_black_beans",
+    "name": "Smoky Black Beans",
+    "qty": 1,
+    "cost": 0.26,
+    "portion": "4 oz",
+    "nutrition": {
+     "calories": 160,
+     "protein_g": 9,
+     "fat_g": 1,
+     "carbs_g": 30,
+     "status": "ok"
+    }
+   },
+   {
+    "component_id": "grilled_chicken",
+    "name": "Grilled Chicken",
+    "qty": 1,
+    "cost": 1.78,
+    "portion": "4 oz cooked",
+    "nutrition": {
+     "calories": 240,
+     "protein_g": 32,
+     "fat_g": 12,
+     "carbs_g": 0,
+     "status": "ok"
+    }
+   },
+   {
+    "component_id": "charred_corn_salsa",
+    "name": "Charred Corn Salsa",
+    "qty": 1,
+    "cost": 0.32,
+    "portion": "2 oz",
+    "nutrition": {
+     "calories": 90,
+     "protein_g": 3,
+     "fat_g": 2,
+     "carbs_g": 16,
+     "status": "ok"
+    }
+   },
+   {
+    "component_id": "pico_de_gallo",
+    "name": "Pico de Gallo",
+    "qty": 1,
+    "cost": 0.24,
+    "portion": "2 oz",
+    "nutrition": {
+     "calories": 20,
+     "protein_g": 1,
+     "fat_g": 0,
+     "carbs_g": 5,
+     "status": "ok"
+    }
+   },
+   {
+    "component_id": "avocado_crema",
+    "name": "Avocado Crema",
+    "qty": 1,
+    "cost": 0.45,
+    "portion": "1.5 oz",
+    "nutrition": {
+     "calories": 110,
+     "protein_g": 1,
+     "fat_g": 10,
+     "carbs_g": 4,
+     "status": "ok"
+    }
+   },
+   {
+    "component_id": "cotija",
+    "name": "Cotija",
+    "qty": 1,
+    "cost": 0.17,
+    "portion": "0.5 oz",
+    "nutrition": {
+     "calories": 55,
+     "protein_g": 4,
+     "fat_g": 4,
+     "carbs_g": 1,
+     "status": "ok"
+    }
+   },
+   {
+    "component_id": "tortilla_strips",
+    "name": "Tortilla Strips",
+    "qty": 1,
+    "cost": 0.08,
+    "portion": "0.3 oz",
+    "nutrition": {
+     "calories": 40,
+     "protein_g": 1,
+     "fat_g": 2,
+     "carbs_g": 6,
+     "status": "ok"
+    }
+   },
+   {
+    "component_id": "packaging_bowl",
+    "name": "Bowl + Lid",
+    "qty": 1,
+    "cost": 0.38,
+    "portion": null
+   }
+  ]
+ },
+ {
+  "id": "DEMO-ASADA",
+  "name": "Asada Bowl",
+  "category": "curated",
+  "price": 14.95,
+  "allergens": "Milk",
+  "dietary": null,
+  "nutrition": {
+   "calories": 1085,
+   "protein_g": 59,
+   "fat_g": 40,
+   "carbs_g": 129,
+   "status": "ok"
+  },
+  "lines": [
+   {
+    "component_id": "cilantro_lime_rice",
+    "name": "Cilantro-Lime Rice",
+    "qty": 1,
+    "cost": 0.31,
+    "portion": "8 oz cooked",
+    "nutrition": {
+     "calories": 320,
+     "protein_g": 6,
+     "fat_g": 4,
+     "carbs_g": 64,
+     "status": "ok"
+    }
+   },
+   {
+    "component_id": "smoky_black_beans",
+    "name": "Smoky Black Beans",
+    "qty": 1,
+    "cost": 0.26,
+    "portion": "4 oz",
+    "nutrition": {
+     "calories": 160,
+     "protein_g": 9,
+     "fat_g": 1,
+     "carbs_g": 30,
+     "status": "ok"
+    }
+   },
+   {
+    "component_id": "carne_asada",
+    "name": "Carne Asada",
+    "qty": 1,
+    "cost": 2.65,
+    "portion": "4 oz cooked",
+    "nutrition": {
+     "calories": 280,
+     "protein_g": 33,
+     "fat_g": 16,
+     "carbs_g": 0,
+     "status": "ok"
+    }
+   },
+   {
+    "component_id": "charred_corn_salsa",
+    "name": "Charred Corn Salsa",
+    "qty": 1,
+    "cost": 0.32,
+    "portion": "2 oz",
+    "nutrition": {
+     "calories": 90,
+     "protein_g": 3,
+     "fat_g": 2,
+     "carbs_g": 16,
+     "status": "ok"
+    }
+   },
+   {
+    "component_id": "pico_de_gallo",
+    "name": "Pico de Gallo",
+    "qty": 1,
+    "cost": 0.24,
+    "portion": "2 oz",
+    "nutrition": {
+     "calories": 20,
+     "protein_g": 1,
+     "fat_g": 0,
+     "carbs_g": 5,
+     "status": "ok"
+    }
+   },
+   {
+    "component_id": "guacamole",
+    "name": "Guacamole",
+    "qty": 1,
+    "cost": 0.68,
+    "portion": "2 oz",
+    "nutrition": {
+     "calories": 120,
+     "protein_g": 2,
+     "fat_g": 11,
+     "carbs_g": 7,
+     "status": "ok"
+    }
+   },
+   {
+    "component_id": "cotija",
+    "name": "Cotija",
+    "qty": 1,
+    "cost": 0.17,
+    "portion": "0.5 oz",
+    "nutrition": {
+     "calories": 55,
+     "protein_g": 4,
+     "fat_g": 4,
+     "carbs_g": 1,
+     "status": "ok"
+    }
+   },
+   {
+    "component_id": "tortilla_strips",
+    "name": "Tortilla Strips",
+    "qty": 1,
+    "cost": 0.08,
+    "portion": "0.3 oz",
+    "nutrition": {
+     "calories": 40,
+     "protein_g": 1,
+     "fat_g": 2,
+     "carbs_g": 6,
+     "status": "ok"
+    }
+   },
+   {
+    "component_id": "packaging_bowl",
+    "name": "Bowl + Lid",
+    "qty": 1,
+    "cost": 0.38,
+    "portion": null
+   }
+  ]
+ },
+ {
+  "id": "DEMO-BAJA",
+  "name": "Baja Shrimp Bowl",
+  "category": "curated",
+  "price": 14.25,
+  "allergens": "Milk \u00b7 Shellfish",
+  "dietary": null,
+  "nutrition": {
+   "calories": 955,
+   "protein_g": 49,
+   "fat_g": 28,
+   "carbs_g": 128,
+   "status": "ok"
+  },
+  "lines": [
+   {
+    "component_id": "cilantro_lime_rice",
+    "name": "Cilantro-Lime Rice",
+    "qty": 1,
+    "cost": 0.31,
+    "portion": "8 oz cooked",
+    "nutrition": {
+     "calories": 320,
+     "protein_g": 6,
+     "fat_g": 4,
+     "carbs_g": 64,
+     "status": "ok"
+    }
+   },
+   {
+    "component_id": "smoky_black_beans",
+    "name": "Smoky Black Beans",
+    "qty": 1,
+    "cost": 0.26,
+    "portion": "4 oz",
+    "nutrition": {
+     "calories": 160,
+     "protein_g": 9,
+     "fat_g": 1,
+     "carbs_g": 30,
+     "status": "ok"
+    }
+   },
+   {
+    "component_id": "baja_shrimp",
+    "name": "Baja Shrimp",
+    "qty": 1,
+    "cost": 2.19,
+    "portion": "4 oz cooked",
+    "nutrition": {
+     "calories": 160,
+     "protein_g": 24,
+     "fat_g": 5,
+     "carbs_g": 2,
+     "status": "ok"
+    }
+   },
+   {
+    "component_id": "charred_corn_salsa",
+    "name": "Charred Corn Salsa",
+    "qty": 1,
+    "cost": 0.32,
+    "portion": "2 oz",
+    "nutrition": {
+     "calories": 90,
+     "protein_g": 3,
+     "fat_g": 2,
+     "carbs_g": 16,
+     "status": "ok"
+    }
+   },
+   {
+    "component_id": "pico_de_gallo",
+    "name": "Pico de Gallo",
+    "qty": 1,
+    "cost": 0.24,
+    "portion": "2 oz",
+    "nutrition": {
+     "calories": 20,
+     "protein_g": 1,
+     "fat_g": 0,
+     "carbs_g": 5,
+     "status": "ok"
+    }
+   },
+   {
+    "component_id": "avocado_crema",
+    "name": "Avocado Crema",
+    "qty": 1,
+    "cost": 0.45,
+    "portion": "1.5 oz",
+    "nutrition": {
+     "calories": 110,
+     "protein_g": 1,
+     "fat_g": 10,
+     "carbs_g": 4,
+     "status": "ok"
+    }
+   },
+   {
+    "component_id": "cotija",
+    "name": "Cotija",
+    "qty": 1,
+    "cost": 0.17,
+    "portion": "0.5 oz",
+    "nutrition": {
+     "calories": 55,
+     "protein_g": 4,
+     "fat_g": 4,
+     "carbs_g": 1,
+     "status": "ok"
+    }
+   },
+   {
+    "component_id": "tortilla_strips",
+    "name": "Tortilla Strips",
+    "qty": 1,
+    "cost": 0.08,
+    "portion": "0.3 oz",
+    "nutrition": {
+     "calories": 40,
+     "protein_g": 1,
+     "fat_g": 2,
+     "carbs_g": 6,
+     "status": "ok"
+    }
+   },
+   {
+    "component_id": "packaging_bowl",
+    "name": "Bowl + Lid",
+    "qty": 1,
+    "cost": 0.38,
+    "portion": null
+   }
+  ]
+ },
+ {
+  "id": "DEMO-VEGGIE",
+  "name": "Veggie Sol Bowl",
+  "category": "curated",
+  "price": 11.5,
+  "allergens": "Milk",
+  "dietary": "vegetarian",
+  "nutrition": {
+   "calories": 985,
+   "protein_g": 28,
+   "fat_g": 29,
+   "carbs_g": 162,
+   "status": "ok"
+  },
+  "lines": [
+   {
+    "component_id": "cilantro_lime_rice",
+    "name": "Cilantro-Lime Rice",
+    "qty": 1,
+    "cost": 0.31,
+    "portion": "8 oz cooked",
+    "nutrition": {
+     "calories": 320,
+     "protein_g": 6,
+     "fat_g": 4,
+     "carbs_g": 64,
+     "status": "ok"
+    }
+   },
+   {
+    "component_id": "smoky_black_beans",
+    "name": "Smoky Black Beans",
+    "qty": 1,
+    "cost": 0.26,
+    "portion": "4 oz",
+    "nutrition": {
+     "calories": 160,
+     "protein_g": 9,
+     "fat_g": 1,
+     "carbs_g": 30,
+     "status": "ok"
+    }
+   },
+   {
+    "component_id": "roasted_sweet_potato",
+    "name": "Roasted Sweet Potato",
+    "qty": 1,
+    "cost": 0.52,
+    "portion": "5 oz",
+    "nutrition": {
+     "calories": 180,
+     "protein_g": 2,
+     "fat_g": 5,
+     "carbs_g": 33,
+     "status": "ok"
+    }
+   },
+   {
+    "component_id": "charred_corn_salsa",
+    "name": "Charred Corn Salsa",
+    "qty": 1,
+    "cost": 0.32,
+    "portion": "2 oz",
+    "nutrition": {
+     "calories": 90,
+     "protein_g": 3,
+     "fat_g": 2,
+     "carbs_g": 16,
+     "status": "ok"
+    }
+   },
+   {
+    "component_id": "pico_de_gallo",
+    "name": "Pico de Gallo",
+    "qty": 1,
+    "cost": 0.24,
+    "portion": "2 oz",
+    "nutrition": {
+     "calories": 20,
+     "protein_g": 1,
+     "fat_g": 0,
+     "carbs_g": 5,
+     "status": "ok"
+    }
+   },
+   {
+    "component_id": "guacamole",
+    "name": "Guacamole",
+    "qty": 1,
+    "cost": 0.68,
+    "portion": "2 oz",
+    "nutrition": {
+     "calories": 120,
+     "protein_g": 2,
+     "fat_g": 11,
+     "carbs_g": 7,
+     "status": "ok"
+    }
+   },
+   {
+    "component_id": "cotija",
+    "name": "Cotija",
+    "qty": 1,
+    "cost": 0.17,
+    "portion": "0.5 oz",
+    "nutrition": {
+     "calories": 55,
+     "protein_g": 4,
+     "fat_g": 4,
+     "carbs_g": 1,
+     "status": "ok"
+    }
+   },
+   {
+    "component_id": "tortilla_strips",
+    "name": "Tortilla Strips",
+    "qty": 1,
+    "cost": 0.08,
+    "portion": "0.3 oz",
+    "nutrition": {
+     "calories": 40,
+     "protein_g": 1,
+     "fat_g": 2,
+     "carbs_g": 6,
+     "status": "ok"
+    }
+   },
+   {
+    "component_id": "packaging_bowl",
+    "name": "Bowl + Lid",
+    "qty": 1,
+    "cost": 0.38,
+    "portion": null
+   }
+  ]
+ },
+ {
+  "id": "DEMO-BURRITO",
+  "name": "Pollo Verde Burrito",
+  "category": "handheld",
+  "price": 11.95,
+  "allergens": "Milk \u00b7 Wheat",
+  "dietary": null,
+  "nutrition": {
+   "calories": 1035,
+   "protein_g": 58,
+   "fat_g": 35,
+   "carbs_g": 124,
+   "status": "ok"
+  },
+  "lines": [
+   {
+    "component_id": "flour_tortilla",
+    "name": "Flour Tortilla 12\"",
+    "qty": 1,
+    "cost": 0.2,
+    "portion": "1 each",
+    "nutrition": {
+     "calories": 210,
+     "protein_g": 6,
+     "fat_g": 5,
+     "carbs_g": 36,
+     "status": "ok"
+    }
+   },
+   {
+    "component_id": "cilantro_lime_rice",
+    "name": "Cilantro-Lime Rice",
+    "qty": 1,
+    "cost": 0.26,
+    "portion": "6 oz cooked",
+    "nutrition": {
+     "calories": 240,
+     "protein_g": 5,
+     "fat_g": 3,
+     "carbs_g": 48,
+     "status": "ok"
+    }
+   },
+   {
+    "component_id": "smoky_black_beans",
+    "name": "Smoky Black Beans",
+    "qty": 1,
+    "cost": 0.26,
+    "portion": "4 oz",
+    "nutrition": {
+     "calories": 160,
+     "protein_g": 9,
+     "fat_g": 1,
+     "carbs_g": 30,
+     "status": "ok"
+    }
+   },
+   {
+    "component_id": "grilled_chicken",
+    "name": "Grilled Chicken",
+    "qty": 1,
+    "cost": 1.78,
+    "portion": "4 oz cooked",
+    "nutrition": {
+     "calories": 240,
+     "protein_g": 32,
+     "fat_g": 12,
+     "carbs_g": 0,
+     "status": "ok"
+    }
+   },
+   {
+    "component_id": "pico_de_gallo",
+    "name": "Pico de Gallo",
+    "qty": 1,
+    "cost": 0.24,
+    "portion": "2 oz",
+    "nutrition": {
+     "calories": 20,
+     "protein_g": 1,
+     "fat_g": 0,
+     "carbs_g": 5,
+     "status": "ok"
+    }
+   },
+   {
+    "component_id": "avocado_crema",
+    "name": "Avocado Crema",
+    "qty": 1,
+    "cost": 0.45,
+    "portion": "1.5 oz",
+    "nutrition": {
+     "calories": 110,
+     "protein_g": 1,
+     "fat_g": 10,
+     "carbs_g": 4,
+     "status": "ok"
+    }
+   },
+   {
+    "component_id": "cotija",
+    "name": "Cotija",
+    "qty": 1,
+    "cost": 0.17,
+    "portion": "0.5 oz",
+    "nutrition": {
+     "calories": 55,
+     "protein_g": 4,
+     "fat_g": 4,
+     "carbs_g": 1,
+     "status": "ok"
+    }
+   },
+   {
+    "component_id": "packaging_wrap",
+    "name": "Foil + Bag",
+    "qty": 1,
+    "cost": 0.22,
+    "portion": null
+   }
+  ]
+ },
+ {
+  "id": "DEMO-CHIPSGUAC",
+  "name": "Chips & Guacamole",
+  "category": "side",
+  "price": 4.95,
+  "allergens": null,
+  "dietary": "vegan",
+  "nutrition": {
+   "calories": 800,
+   "protein_g": 11,
+   "fat_g": 50,
+   "carbs_g": 82,
+   "status": "ok"
+  },
+  "lines": [
+   {
+    "component_id": "chips",
+    "name": "Tortilla Chips",
+    "qty": 1,
+    "cost": 0.44,
+    "portion": "4 oz",
+    "nutrition": {
+     "calories": 560,
+     "protein_g": 7,
+     "fat_g": 28,
+     "carbs_g": 68,
+     "status": "ok"
+    }
+   },
+   {
+    "component_id": "guacamole",
+    "name": "Guacamole",
+    "qty": 2,
+    "cost": 1.36,
+    "portion": "4 oz",
+    "nutrition": {
+     "calories": 240,
+     "protein_g": 4,
+     "fat_g": 22,
+     "carbs_g": 14,
+     "status": "ok"
+    }
+   },
+   {
+    "component_id": "packaging_bag",
+    "name": "Bag",
+    "qty": 1,
+    "cost": 0.12,
+    "portion": null
+   }
+  ]
+ },
+ {
+  "id": "DEMO-AGUA",
+  "name": "Agua Fresca (Hibiscus)",
+  "category": "drink",
+  "price": 3.5,
+  "allergens": null,
+  "dietary": "vegan",
+  "nutrition": {
+   "calories": 120,
+   "protein_g": 0,
+   "fat_g": 0,
+   "carbs_g": 31,
+   "status": "ok"
+  },
+  "lines": [
+   {
+    "component_id": "agua_fresca_base",
+    "name": "Hibiscus Base",
+    "qty": 1,
+    "cost": 0.38,
+    "portion": "16 oz"
+   },
+   {
+    "component_id": "packaging_cup",
+    "name": "Cup + Lid",
+    "qty": 1,
+    "cost": 0.21,
+    "portion": null
+   }
+  ]
+ },
+ {
+  "id": "DEMO-CHURRO",
+  "name": "Churro Bites",
+  "category": "dessert",
+  "price": 4.25,
+  "allergens": "Wheat \u00b7 Milk \u00b7 Egg",
+  "dietary": null,
+  "status": "provisional",
+  "nutrition": {
+   "calories": 430,
+   "protein_g": 5,
+   "fat_g": 21,
+   "carbs_g": 56,
+   "status": "fry-oil absorption estimated, not weighed"
+  },
+  "lines": [
+   {
+    "component_id": "churro_dough",
+    "name": "Churro Dough",
+    "qty": 1,
+    "cost": 0.52,
+    "portion": "5 pieces",
+    "nutrition": {
+     "calories": 330,
+     "protein_g": 5,
+     "fat_g": 12,
+     "carbs_g": 50,
+     "status": "ok"
+    }
+   },
+   {
+    "component_id": "cinnamon_sugar_dust",
+    "name": "Cinnamon Sugar",
+    "qty": 1,
+    "cost": 0.07,
+    "portion": "0.4 oz",
+    "nutrition": {
+     "calories": 60,
+     "protein_g": 0,
+     "fat_g": 0,
+     "carbs_g": 6,
+     "status": "ok"
+    }
+   },
+   {
+    "component_id": "fry_oil_absorbed",
+    "name": "Fry Oil (absorbed)",
+    "qty": 1,
+    "cost": 0.09,
+    "portion": null,
+    "nutrition": {
+     "calories": 40,
+     "protein_g": 0,
+     "fat_g": 9,
+     "carbs_g": 0,
+     "status": "estimate - absorption not weighed"
+    }
+   },
+   {
+    "component_id": "packaging_cup",
+    "name": "Dessert Cup",
+    "qty": 1,
+    "cost": 0.14,
+    "portion": null
+   }
+  ]
+ }
+]
