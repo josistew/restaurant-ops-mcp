@@ -1,5 +1,7 @@
 # Restaurant Ops MCP
 
+![tests](https://github.com/josistew/restaurant-ops-mcp/actions/workflows/tests.yml/badge.svg)
+
 An [MCP](https://modelcontextprotocol.io) server that gives AI agents eyes on restaurant operating data: **menu margins, vendor price history, catering orders, and nutrition** — the numbers an owner actually runs the business on.
 
 Ask Claude things like:
